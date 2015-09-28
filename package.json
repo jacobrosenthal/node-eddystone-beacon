@@ -36,7 +36,7 @@
   ],
   "license": "Apache-2.0",
   "dependencies": {
-    "bleno": "jacobrosenthal/bleno#websocket",
+    "bleno": "jacobrosenthal/bleno#platform-on-state-change",
     "eddystone-url-encoding": "^1.0.0"
   },
   "devDependencies": {
